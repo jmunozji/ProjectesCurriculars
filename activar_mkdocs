@@ -1,0 +1,3 @@
+source /Users/Pp/Prof\ Secundaria/Materiales/ProjectesCurriculars/venv2/bin/activate 
+cd /Users/Pp/Prof\ Secundaria/Materiales/ProjectesCurriculars
+mkdocs serve
