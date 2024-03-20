@@ -1,4 +1,4 @@
 ---
-title: 4. Metodologia: orientacions didàctiques
+title: 4. Metodologia. orientacions didàctiques
 ---
 
