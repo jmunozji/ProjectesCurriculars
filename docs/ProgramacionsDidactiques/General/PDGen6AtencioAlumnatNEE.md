@@ -2,4 +2,4 @@
 title: 6. Atenció a l’alumnat amb necessitats educatives específiques
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En aquest apartat s'hauria de fer referència  al projecte curricular, però no hem introduit cap apartat relacionat a l'index del PC. 

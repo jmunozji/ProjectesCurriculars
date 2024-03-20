@@ -2,4 +2,8 @@
 title: 5. Criteris d’avaluació
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Els criteris d'avaluació seran específics per a cada mòdul. Aquest apartat serà concretat per la programació de cadascú dels mòduls enllaçant al decret de títol on estiguen definits.
+
+Els criteris d'avaluació venen definides al decret de títol del cicle formatiu,  "annex I, mòduls profesionals", módul concret, apartat Resultados de aprendizaje y criterios de evaluación.
+
+S'enllaçarà al PDF de títol indicant la pàgina on pot trobar-se.

@@ -2,4 +2,6 @@
 title: 1. Resultats d'aprenentatge
 ---
 
-Cada mòdul contindrà els seus RA, pel que a la programación didàctica general només es definirà la forma en que han de posar-se
+Els resultats d'aprenentage seran específics per a cada mòdul. Aquest apartat serà concretat per la programació de cadascú dels mòduls enllaçant al decret de títol on estiguen definits.
+
+S'enllaçarà al PDF indicant la pàgina on pot trobar-se.
