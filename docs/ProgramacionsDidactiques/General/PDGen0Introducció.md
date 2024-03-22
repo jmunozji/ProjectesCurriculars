@@ -25,4 +25,4 @@ ga a un cicle LOGSE, s’entendran les equivalències següents:
 * Per resultats d’aprenentatge, les capacitats terminals.
 * Per competències professionals, personals i socials, les capacitats
 professionals
-
+ 
